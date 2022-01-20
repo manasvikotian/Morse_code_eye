@@ -1,0 +1,17 @@
+python blink.py --shape-predictor shape_predictor_68_face_landmarks.dat
+
+
+python blink_short.py --shape-predictor shape_predictor_68_face_landmarks.dat
+
+
+python blink_short_array.py --shape-predictor shape_predictor_68_face_landmarks.dat
+
+python try.py --shape-predictor shape_predictor_68_face_landmarks.dat
+
+python try_dict.py --shape-predictor shape_predictor_68_face_landmarks.dat
+
+python video.py  --shape-predictor shape_predictor_68_face_landmarks.dat  --video video.mp4
+
+
+
+_ _ . B . . B . . . _ B . B _ _ B . B _ . _ . B _ _ _ B _ . . B . 
